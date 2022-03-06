@@ -1,0 +1,6 @@
+co\unicauca\restaurant\server\access\RepositoryImpArrays.class
+co\unicauca\restaurant\server\app\RestaurantApplication.class
+co\unicauca\restaurant\server\infra\RestaurantServerSocket.class
+co\unicauca\restaurant\server\access\Factory.class
+co\unicauca\restaurant\server\domain\services\FoodService.class
+co\unicauca\restaurant\server\access\IRepository.class
