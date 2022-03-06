@@ -1,0 +1,6 @@
+co\unicauca\restaurant\client\app\RestaurantClientApplication.class
+co\unicauca\restaurant\client\domain\services\RestaurantService.class
+co\unicauca\restaurant\client\infra\RestaurantSocket.class
+co\unicauca\restaurant\client\access\Factory.class
+co\unicauca\restaurant\client\access\IRestaurantAccess.class
+co\unicauca\restaurant\client\access\RestaurantAccessImpSockets.class

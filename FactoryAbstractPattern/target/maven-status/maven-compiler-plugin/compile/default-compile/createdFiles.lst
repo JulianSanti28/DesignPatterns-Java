@@ -1,0 +1,10 @@
+Model\LuxuryCar.class
+Presentation\Cliente.class
+Model\LuxurySUV.class
+Model\NonLuxurySUV.class
+Factory\NonLuxuryVehicleFactory.class
+Model\SUV.class
+Factory\LuxuryVehicleFactory.class
+Factory\VehicleFactory.class
+Model\Car.class
+Model\NonLuxuryCar.class

@@ -1,0 +1,12 @@
+co\unicauca\measuresystem\elements\Analizador.class
+co\unicauca\measuresystem\items\ItemMedicion.class
+co\unicauca\measuresystem\items\ItemMedicionGenerico.class
+co\unicauca\measuresystem\factory\FabricaItemMedicion.class
+co\unicauca\measuresystem\items\ItemMedicionPreciso.class
+co\unicauca\measuresystem\elements\Actuador.class
+co\unicauca\measuresystem\repository\IMeasureRepository.class
+co\unicauca\measuresystem\repository\MeasureRepository.class
+co\unicauca\measuresystem\elements\Sensor.class
+co\unicauca\measuresystem\factory\FabricaItemPreciso.class
+co\unicauca\measuresystem\repository\Factory.class
+co\unicauca\measuresystem\factory\FabricaItemGenerico.class

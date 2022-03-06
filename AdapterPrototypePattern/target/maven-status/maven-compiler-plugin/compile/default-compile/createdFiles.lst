@@ -1,0 +1,5 @@
+com\mycompany\adapterpattern\ElectricAcousticGuitar.class
+com\mycompany\adapterpattern\Guitar.class
+com\mycompany\adapterpattern\ElectricGuitar.class
+com\mycompany\adapterpattern\AcousticGuitar.class
+com\mycompany\adapterpattern\App.class
